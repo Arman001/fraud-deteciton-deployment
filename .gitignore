@@ -1,0 +1,52 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Debugging Files
+*.log
+
+# Model Files
+# *.pkl
+# *.joblib
+# model/
+test.py
+
+# OS Specific
+*.swp
+*.swo
+
+# Build Artifacts
+*.egg-info/
+dist/
+build/
+*.whl
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+
+# Docker Files
+*.env
+.env.*
+
+# Render Specific
+/.render/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.old
